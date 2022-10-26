@@ -29,7 +29,7 @@ export class MenuComponent implements OnInit {
       },
       {
         label: 'Edit',
-        icon: 'pi pi-fw pi-pencil',
+        icon: 'pi pi-fw pi-bell',
         items: [
           {label: 'Delete', icon: 'pi pi-fw pi-trash'},
           {label: 'Refresh', icon: 'pi pi-fw pi-refresh'}
