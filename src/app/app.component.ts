@@ -8,11 +8,11 @@ import { Component } from '@angular/core';
 export class AppComponent {
   nombre: string= 'jose';
   valor: number = 1000;
-
+  naice: string= 'fredy bbcita'
 
   mostrarNombre(){
     console.log(this.nombre);
     console.log(this.valor);
-
+    console.log(this.naice);
   }
 }
